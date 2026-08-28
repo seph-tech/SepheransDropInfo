@@ -241,14 +241,6 @@ SepheransDropInfoDB
 
 The database is separated by realm. It stores local observations, synced sources, quarantined sync sources, trust flags, logs, snapshots, settings, and export text.
 
-## Notes
-
-- Drop rates are observational, not official server loot tables.
-- Small sample sizes can produce misleading percentages.
-- Sync data should be treated as community-submitted data.
-- The accuracy label is based on loot opens, not on an external statistical model.
-- Resetting the realm database does not delete saved snapshots.
-
 ## Author
 
 Created by Sepheran.
