@@ -55,13 +55,6 @@ If the addon has been useful and you would like to support me and my sanity, you
    /sdi
    ```
 
-## Requirements
-
-- WoW client interface: `30300`
-- SavedVariables: `SepheransDropInfoDB`
-
-This addon is designed for Wrath-era clients.
-
 ## How It Works
 
 When you kill and loot a creature, the addon records the loot window contents against that mob's NPC ID. Each loot window open counts as one observation.
