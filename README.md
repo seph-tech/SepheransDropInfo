@@ -1,8 +1,22 @@
 # Sepheran's Drop Info
 
+
+![WoW](https://img.shields.io/badge/WoW-3.3.5a-c79c6e)
+![Server](https://img.shields.io/badge/Ascension-f0b429)
+![Lua](https://img.shields.io/badge/Lua-5.1-2c2d72)
+![Dependencies](https://img.shields.io/badge/dependencies-none-2ea44f)
+
 Sepheran's Drop Info is a World of Warcraft Wrath 3.3.5 addon that builds a personal loot database as you play. It watches the mobs you loot, records observed item drops and coin, then shows drop-rate information directly on mob mouseover tooltips and inside a dashboard.
 
-The addon does not ship with a finished loot database. It becomes more useful as you, your group, or trusted synced users collect more loot observations.
+## Support development
+
+If the addon has been useful and you would like to support me and my sanity, you can ...
+
+| Method | Link |
+| --- | --- |
+| **Paypal** | [buy me a beer through PayPal](https://paypal.me/sephnar) |
+| **ko-fi** | [support me on ko-fi](https://ko-fi.com/sepheran) |
+
 
 ## Features
 
