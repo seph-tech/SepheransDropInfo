@@ -145,8 +145,6 @@ Kurzen Commando (ID 938)
     - Tough Cloak: 9.1% (1/11)
 ```
 
-WoW addons cannot directly create arbitrary `.txt` files in the AddOns folder while the game is running. The export is shown in a copyable in-game text box and persisted in SavedVariables as `lastExportText`.
-
 ## Tooltip
 
 When hovering a mob with recorded data, the tooltip shows:
