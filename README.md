@@ -26,7 +26,7 @@ The addon does not ship with a finished loot database. It becomes more useful as
 2. Place the `SepheransDropInfo` folder into your WoW AddOns directory:
 
    ```text
-   World of Warcraft/Interface/AddOns/SepheransDropInfo
+   /AddOns/SepheransDropInfo
    ```
 
 3. Restart the game or run:
