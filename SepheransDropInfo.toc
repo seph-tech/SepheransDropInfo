@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: SepheransDropInfo
+## Notes: Shows loot info drop percentages on mobs mouse-hover. 
+## Author: Sepheran
+## Version: 1.0
+## SavedVariables: SepheransDropInfoDB
+
+SepheransDropInfo.lua
